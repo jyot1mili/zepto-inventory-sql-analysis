@@ -165,7 +165,6 @@ Through this project, I practiced:
 * Perform trend and category forecasting
 * Automate reporting workflow
 
----
 
 
 ```
